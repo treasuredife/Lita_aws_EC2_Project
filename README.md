@@ -12,3 +12,4 @@ I created 2 subnets, Public and Private Subnet
 ![public subnet](/Public_subnet.png)
 ### Created Security group
  Created security with ibound rules to allow ......... traffic
+### Launch EC2 instance
